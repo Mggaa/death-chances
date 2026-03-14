@@ -1,4 +1,4 @@
-# Doom Chances (DC)
+# Doom Chances
 
 A gameplay mod for GZDoom that adds a limited lives system and automatic saves.
 
