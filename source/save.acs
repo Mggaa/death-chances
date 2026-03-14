@@ -1,0 +1,7 @@
+#Library "SaveGame"
+#include "zcommon.acs"
+
+script "DoAutosave" (void)
+{
+    AutoSave();
+}

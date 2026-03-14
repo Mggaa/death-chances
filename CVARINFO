@@ -1,0 +1,4 @@
+
+server int dc_max_lifes = 3;
+server int lifes = 3;
+server int secs_to_save = 20;
